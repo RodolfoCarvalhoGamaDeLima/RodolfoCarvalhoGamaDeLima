@@ -14,8 +14,6 @@
 🟠 **Proatividade**
 🟠 **Ingles Básico**
 
-
-
 ## 💼 Experiência  
 ### 🗺️ **Projeto de Cadastro Técnico Multifinalitário**  
 🔸 Desenvolvimento de consultas SQL para análise de dados espaciais.  
@@ -31,4 +29,4 @@
 
 ## 📫 Contato  
 📧 Email: Rodolfoagricart@hotmail.com  
-🔗 LinkedIn:   
+🔗 LinkedIn:  
