@@ -2,7 +2,7 @@
 # 
 ## 🧑‍💻 Sobre Mim  
 🎓 **Formação:** Engenharia de Agrimensura e Cartografia  
-🔥 Sempre tive interesse na área de **desenvolvimento web** e estou aprimorando minhas habilidades nessa área.  
+26 anos
 
 ## ⚙️ Hard Skills
 🟠 **Frontend:** HTML | CSS | JavaScript | React  
@@ -10,9 +10,9 @@
 🟠 **WebGIS:** React + Leaflet  
 
 ## 🧑 Soft Skills
-🟠 **Organização** 
-🟠 **Proatividade**
-🟠 **Ingles Básico**
+🟠 **Organização**   
+🟠 **Proatividade**  
+🟠 **Ingles Básico**  
 
 ## 💼 Experiência  
 ### 🗺️ **Projeto de Cadastro Técnico Multifinalitário**  
@@ -24,8 +24,10 @@
 🔸 Adaptação e personalização de componentes para melhor usabilidade.  
 
 ## 📂 Projetos Destacados  
-🔹 [Projeto 1 - Nome do Projeto](#)  
-🔹 [Projeto 2 - Nome do Projeto](#)  
+  
+💻 [Clause](https://github.com/RodolfoCarvalhoGamaDeLima/Clause)       
+📚 [Biblioteca Virtual](https://github.com/RodolfoCarvalhoGamaDeLima/BibliotecaVirtual)
+
 
 ## 📫 Contato  
 📧 Email: Rodolfoagricart@hotmail.com  
