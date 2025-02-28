@@ -31,4 +31,4 @@
 
 ## 📫 Contato  
 📧 Email: Rodolfoagricart@hotmail.com  
-🔗 LinkedIn:  
+🔗 LinkedIn: [Rodolfo Gama](www.linkedin.com/in/rodolfo-gama-a0a263221)
