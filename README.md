@@ -1,32 +1,35 @@
-# RodolfoGama
-# 
+# Rodolfo Gama
+
 ## 🧑‍💻 Sobre Mim  
 🎓 **Formação:** Engenharia de Agrimensura e Cartografia  
 26 anos
 
 ## ⚙️ Hard Skills
 🟠 **Frontend:** HTML | CSS | JavaScript | React  
-🟠 **Banco de Dados:** SQL (Consultas, Aliases, INNER JOIN com condição espacial)  
-🟠 **WebGIS:** React + Leaflet  
+🟠 **Banco de Dados:** SQL (Consultas, Aliases, INNER JOIN com condição espacial) e PostgreSQL 
 
 ## 🧑 Soft Skills
+🟠 **Comunicação**  
+🟠 **Trabalho em Equipe**   
 🟠 **Organização**   
 🟠 **Proatividade**  
 🟠 **Ingles Básico**  
 
-## 💼 Experiência  
-### 🗺️ **Projeto de Cadastro Técnico Multifinalitário**  
-🔸 Desenvolvimento de consultas SQL para análise de dados espaciais.  
-🔸 Utilização de **aliases** e **INNER JOIN com condição espacial**.  
+## 💼 Experiência Profissional 
 
-### 🌍 **Projeto de Regularização Fundiária**  
-🔸 Desenvolvimento de um **WebGIS** utilizando **React e Leaflet**.  
-🔸 Adaptação e personalização de componentes para melhor usabilidade.  
+### 🗺️ **Estagiário Lider - Projeto de Cadastro Técnico Multifinalitário ( Mar 2023 - Dez 2023 )**  
+- Utilizei PostgreSQL para inserção, organização e limpeza de dados,removendo registros vazios para garantir a qualidade do banco de dados.
+- Trabalhei com consultas SQL para estruturação e manutenção da base cadastral
+- Participei de reuniões diárias e sprints semanais com uso da metodologia ágil Scrum, organizando e acompanhando tarefas no Jira.
 
-## 📂 Projetos Destacados  
-  
-💻 [Clause](https://github.com/RodolfoCarvalhoGamaDeLima/Clause)       
-📚 [Biblioteca Virtual](https://github.com/RodolfoCarvalhoGamaDeLima/BibliotecaVirtual)
+
+### 🌍 **Estagiário de desenvolvimento web - Projeto de Regularização Fundiária  ( Fev 2024 - Nov 2024 )**  
+- Desenvolvimento Web voltando para visualização e análise de dados geográficos,
+trabalhando com HTML, CSS, Javascript e o Framework React.js
+- Adaptei e personalizei componentes da aplicação para melhor experiência do
+usuário.
+- Integrei a aplicação com PostgreSQL, garantindo a comunicação eficiente entre o
+banco de dados e o front-end por meio do GeoServer.
 
 
 ## 📫 Contato  
